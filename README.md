@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rufusnufus) · [Telegram](https://t.me/rufusnufus)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rufusnufus&hide=issues,prs&show_icons=true&include_all_commits=true&count_private=true)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rufusnufus&layout=compact&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rufusnufus&hide=issues,prs&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rufusnufus&layout=compact&theme=vision-friendly-dark&hide_border=true)
