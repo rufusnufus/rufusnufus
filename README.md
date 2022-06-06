@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Hydrosphere.io](https://github.com/Hydrospheredata)
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rufusnufus) · [Telegram](https://t.me/rufusnufus)
