@@ -18,7 +18,24 @@
   <summary>More statistics 👀</summary><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
+
+```
+
+
+
+ Last Updated on 19/11/2022 00:47:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
