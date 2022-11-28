@@ -18,7 +18,7 @@
   <summary>More statistics 👀</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -51,7 +51,7 @@ Sunday       29 commits     █░░░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 Other                    5 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   38.25% 
 YAML                     3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   22.79% 
-HCL                      2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
+HCL                      2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
 Python                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
 Terraform                1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
 
@@ -74,7 +74,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2022 00:45:15 UTC
+ Last Updated on 28/11/2022 00:40:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
