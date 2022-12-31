@@ -18,7 +18,7 @@
   <summary>More statistics 👀</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -74,7 +74,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2022 00:39:35 UTC
+ Last Updated on 31/12/2022 00:38:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
