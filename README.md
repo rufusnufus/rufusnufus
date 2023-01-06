@@ -18,7 +18,7 @@
   <summary>More statistics 👀</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -49,12 +49,10 @@ Sunday       26 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    17 mins             ██████████████████████░░░   91.39% 
-YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.61%
+Other                    17 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-iTerm2                   17 mins             ██████████████████████░░░   91.39% 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.61%
+iTerm2                   17 mins             █████████████████████████   100.0%
 
 ```
 
@@ -71,7 +69,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2023 00:40:53 UTC
+ Last Updated on 06/01/2023 00:41:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
