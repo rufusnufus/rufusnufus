@@ -18,7 +18,7 @@
   <summary>More statistics 👀</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,7 +71,7 @@ Mustache                 4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2023 00:58:23 UTC
+ Last Updated on 23/04/2023 01:03:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
