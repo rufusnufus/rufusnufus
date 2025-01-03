@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -66,7 +66,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2025 01:15:03 UTC
+ Last Updated on 03/01/2025 01:15:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
