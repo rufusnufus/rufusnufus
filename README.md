@@ -18,8 +18,6 @@
   <summary>More statistics 👀</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -66,7 +64,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 01:15:05 UTC
+ Last Updated on 16/02/2025 01:22:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
