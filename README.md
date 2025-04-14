@@ -10,7 +10,7 @@
   👯 I’m looking to collaborate on any interesting projects</br>
   🎥 I really like watching films & TV series</br>
   <a href="https://linkedin.com/in/rufusnufus"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/rufusnufus"><img src="https://img.shields.io/badge/-telegram-black?style=for-the-badge&color=blue&logo=telegram"/></a>
+  <a href="https://t.me/nufusrufus"><img src="https://img.shields.io/badge/-telegram-black?style=for-the-badge&color=blue&logo=telegram"/></a>
 </p>
 
 <p text-align="left">
