@@ -56,17 +56,17 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Python                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Smarty                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python                   20 repos            █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Go                       11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Smarty                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 13/05/2025 01:25:46 UTC
+ Last Updated on 14/05/2025 01:24:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
