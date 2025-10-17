@@ -18,6 +18,8 @@
   <summary>More statistics 👀</summary><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -64,7 +66,7 @@ Mustache                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2025 00:54:15 UTC
+ Last Updated on 17/10/2025 00:53:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
