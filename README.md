@@ -18,40 +18,7 @@
   <summary>More statistics 👀</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                519 commits         ████████████░░░░░░░░░░░░░   47.27 % 
-🌃 Evening                374 commits         █████████░░░░░░░░░░░░░░░░   34.06 % 
-🌙 Night                  205 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Tuesday                  302 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Wednesday                259 commits         ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Thursday                 29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Friday                   46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Saturday                 198 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Sunday                   219 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -66,7 +33,7 @@ Mustache                 2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 01:01:11 UTC
+ Last Updated on 03/01/2026 00:57:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
